@@ -10,13 +10,13 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Ente:
 Jika Ente belum meng-clone repositori ini, jalankan perintah berikut untuk menyalin proyek ke komputer lokal elu:
 
 ```bash
-git clone https://github.com/arnadd72/Chupatu.git
+https://github.com/ArvanMurbiyanto10/DigiRent.git
 ```
 ### 2. **Masuk ke Folder Proyek**
 
 Setelah repositori berhasil di-clone, buka folder proyek menggunakan perintah berikut di terminal VS Code:
 ```bash
-cd Chupatu
+cd Digirent
 ```
 ### 3. **Instalasi Dependencies**
 
