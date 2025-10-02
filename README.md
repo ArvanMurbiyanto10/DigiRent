@@ -1,4 +1,4 @@
-# Tugas Besar IMPAL
+KALO M AU BUKA FILE NYA IKUTIN LANGKAH DIBAWAH YAA ( LANGKAH 6 SKIP!)
 ## Anggota Kelompok Gacorr
 
 ## 🚀 Langkah-langkah untuk Menjalankan Proyek Ini
