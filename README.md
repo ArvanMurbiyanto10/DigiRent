@@ -1,5 +1,4 @@
-KALO M AU BUKA FILE NYA IKUTIN LANGKAH DIBAWAH YAA ( LANGKAH 6 SKIP!)
-## Anggota Kelompok Gacorr
+KALO MAU BUKA FILE NYA IKUTIN LANGKAH DIBAWAH YAA ( LANGKAH 6 SKIP!)
 
 ## 🚀 Langkah-langkah untuk Menjalankan Proyek Ini
 
